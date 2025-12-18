@@ -1,6 +1,6 @@
 FandomVerse – TV Show Character Interaction & Fan Popularity Tracker
 
-FandomVerse is a **SQL-based analytics project** that tracks fan engagement, screen time, and character data from shows like *Game of Thrones* and *Stranger Things*.
+FandomVerse is a SQL-based analytics project that tracks fan engagement, screen time, and character data from shows like Game of Thrones and Stranger Things.
 
 ---
 Folders
@@ -69,6 +69,4 @@ Best For
 
 ---
 
-## ⚠️ Note
-
-FandomVerse is a **fictional** project built for educational purposes.
+Note: FandomVerse is a fictional project built for educational purposes.
